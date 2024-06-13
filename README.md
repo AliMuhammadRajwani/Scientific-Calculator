@@ -1,3 +1,5 @@
+Python Scientific Calculator
+
 ### Full Description of the Python Scientific Calculator Code
 
 #### 1. **Importing Libraries**
